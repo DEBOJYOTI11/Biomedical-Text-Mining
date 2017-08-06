@@ -1,0 +1,782 @@
+(dp0
+S'lammatory cytokine messenger'
+p1
+I1
+sS'earchLong noncoding'
+p2
+I1
+sS'polymerase II transcribed primary microRNA transcri'
+p3
+I1
+sS'amp'
+p4
+I1
+sS'transcript antisense intergenic'
+p5
+I1
+sS'earchThe m'
+p6
+I1
+sS'M8 m'
+p7
+I1
+sS'mary eukaryote transcri'
+p8
+I1
+sS'P2 m'
+p9
+I2
+sS'R3 m'
+p10
+I1
+sS'Y4 small interfering'
+p11
+I1
+sS'B1 m'
+p12
+I2
+sS'G m'
+p13
+I1
+sS'K3 m'
+p14
+I5
+sS'7L2 m'
+p15
+I3
+sS'N m'
+p16
+I1
+sS'ritin m'
+p17
+I1
+sS'33 m'
+p18
+I1
+sS'NAs and endogenous siR'
+p19
+I1
+sS'geted'
+p20
+I1
+sS'spec'
+p21
+I1
+sS'0 encoding'
+p22
+I1
+sS'dat1 m'
+p23
+I1
+sS'transcript antisense'
+p24
+I2
+sS'X1 m'
+p25
+I2
+sS'er m'
+p26
+I4
+sS'P1 and 3 m'
+p27
+I1
+sS'5A1 m'
+p28
+I2
+sS'2 m'
+p29
+I11
+sS'poR2 m'
+p30
+I1
+sS'al m'
+p31
+I1
+sS'K transcr'
+p32
+I1
+sS'n m'
+p33
+I1
+sS'leptin gene m'
+p34
+I1
+sS'21 transcri'
+p35
+I1
+sS'70 transcr'
+p36
+I1
+sS'3 transcri'
+p37
+I1
+sS'4 m'
+p38
+I1
+sS'h transcript m'
+p39
+I1
+sS'leolin m'
+p40
+I1
+sS'an p27 m'
+p41
+I1
+sS'p3 m'
+p42
+I1
+sS'1 and NACA transcri'
+p43
+I1
+sS'DH m'
+p44
+I3
+sS'senger'
+p45
+I3
+sS'get mR'
+p46
+I1
+sS'dges m'
+p47
+I1
+sS'al R'
+p48
+I1
+sS'c m'
+p49
+I1
+sS'70 transcri'
+p50
+I1
+sS'ion transcri'
+p51
+I1
+sS'AP m'
+p52
+I4
+sS'll inhibitory'
+p53
+I1
+sS'0 m'
+p54
+I3
+sS'erfering'
+p55
+I25
+sS'B5 m'
+p56
+I2
+sS'78 m'
+p57
+I5
+sS'l gene transcri'
+p58
+I1
+sS'bp m'
+p59
+I1
+sS'proteins carry out'
+p60
+I1
+sS'ase2 m'
+p61
+I1
+sS'bal messenger'
+p62
+I1
+sS'A11 m'
+p63
+I1
+sS'3A'
+p64
+I1
+sS'ck m'
+p65
+I1
+sS'an TOP2A m'
+p66
+I1
+sS'antisense intergenic'
+p67
+I1
+sS'AIP3 m'
+p68
+I2
+sS'A m'
+p69
+I1
+sS'get m'
+p70
+I3
+sS'R4 m'
+p71
+I2
+sS'B2 m'
+p72
+I4
+sS'nscribed m'
+p73
+I3
+sS'rocessed R'
+p74
+I1
+sS'AIR lncRNA HOTAIR lnc'
+p75
+I1
+sS'KL si'
+p76
+I1
+sS'F m'
+p77
+I2
+sS'ro'
+p78
+I6
+sS'asy'
+p79
+I1
+sS'D1 transcr'
+p80
+I1
+sS'mary R'
+p81
+I1
+sS'P1 m'
+p82
+I8
+sS'C1HBVHB x'
+p83
+I1
+sS'0T'
+p84
+I1
+sS'mary miRNA transcri'
+p85
+I2
+sS'5 small interfering'
+p86
+I1
+sS'As and miR'
+p87
+I1
+sS'transcri'
+p88
+I12
+sS'A1 m'
+p89
+I3
+sS'transcripts and TRAIL m'
+p90
+I1
+sS'T2 m'
+p91
+I2
+sS'70 and HSP40 transcri'
+p92
+I1
+sS'9 m'
+p93
+I5
+sS'1 sh'
+p94
+I1
+sS'S3 m'
+p95
+I2
+sS'sf1 b m'
+p96
+I1
+sS'14 m'
+p97
+I1
+sS'5A1 transcri'
+p98
+I1
+sS'N1A m'
+p99
+I2
+sS'T transcri'
+p100
+I1
+sS'P m'
+p101
+I3
+sS'A1 sh'
+p102
+I2
+sS'A1 si'
+p103
+I3
+sS'PTL3 m'
+p104
+I1
+sS'39'
+p105
+I1
+sS'P51 m'
+p106
+I2
+sS'E8 m'
+p107
+I1
+sS'D2 m'
+p108
+I1
+sS'pose'
+p109
+I1
+sS'ntegrin subunit m'
+p110
+I2
+sS'fatin m'
+p111
+I1
+sS'ing R'
+p112
+I1
+sS'okine m'
+p113
+I2
+sS'78 at m'
+p114
+I1
+sS'l length transcri'
+p115
+I1
+sS'transcr'
+p116
+I2
+sS'PP m'
+p117
+I2
+sS'mary transcri'
+p118
+I2
+sS'T m'
+p119
+I3
+sS'ME m'
+p120
+I2
+sS'2B m'
+p121
+I1
+sS'T through'
+p122
+I1
+sS'rt hairpin'
+p123
+I1
+sS'co'
+p124
+I1
+sS'LH m'
+p125
+I1
+sS'IL m'
+p126
+I1
+sS'26 a transcri'
+p127
+I1
+sS'coding'
+p128
+I1
+sS'stitutive m'
+p129
+I1
+sS'ppp'
+p130
+I1
+sS'R2 small interfering'
+p131
+I2
+sS'G2 m'
+p132
+I1
+sS'26 a1 mR'
+p133
+I1
+sS'05 m'
+p134
+I2
+sS'EN mR'
+p135
+I1
+sS'll nuclear'
+p136
+I1
+sS'A10 m'
+p137
+I1
+sS'As and noncoding R'
+p138
+I1
+sS'leolar R'
+p139
+I1
+sS's targeting multiple mR'
+p140
+I1
+sS'ysomes bound to mR'
+p141
+I1
+sS'h m'
+p142
+I1
+sS'E1 m'
+p143
+I4
+sS'00 m'
+p144
+I1
+sS'ponectin recepto'
+p145
+I4
+sS'T2 si'
+p146
+I2
+sS'E m'
+p147
+I2
+sS'isense'
+p148
+I1
+sS'extraction'
+p149
+I1
+sS'25 m'
+p150
+I2
+sS'2'
+p151
+I3
+sS'in m'
+p152
+I3
+sS'ure 12 m'
+p153
+I1
+sS'T1 m'
+p154
+I3
+sS'er1 and Ago1 mR'
+p155
+I1
+sS'recepto'
+p156
+I1
+sS'uencing messenger'
+p157
+I1
+sS'r3 m'
+p158
+I1
+sS'3 m'
+p159
+I7
+sS'AT1 shi'
+p160
+I1
+sS'CH1 m'
+p161
+I1
+sS'k m'
+p162
+I1
+sS'ar m'
+p163
+I1
+sS'd4 m'
+p164
+I1
+sS'P1 and ATIP3 m'
+p165
+I2
+sS'5 m'
+p166
+I5
+sS'mR'
+p167
+I3
+sS'K1 m'
+p168
+I1
+sS'C2 m'
+p169
+I1
+sS'al TAR'
+p170
+I1
+sS'll R'
+p171
+I5
+sS'F4 m'
+p172
+I1
+sS'P1 si'
+p173
+I3
+sS'MP YDR228C PCF11 m'
+p174
+I1
+sS'sf1 b transcr'
+p175
+I2
+sS'genes YHR090C Y'
+p176
+I1
+sS'r 18 S'
+p177
+I1
+sS'tifunctional'
+p178
+I1
+sS'nscribed into mR'
+p179
+I1
+sS'or suppressor mR'
+p180
+I1
+sS'n'
+p181
+I25
+sS'k3 m'
+p182
+I1
+sS'CA2 b m'
+p183
+I1
+sS'1 m'
+p184
+I27
+sS'NA and m'
+p185
+I1
+sS'33 messenger'
+p186
+I1
+sS'POR2 m'
+p187
+I4
+sS'D1 transcri'
+p188
+I1
+sS'siR'
+p189
+I2
+sS'6 full length transcripts since shorter mR'
+p190
+I1
+sS'oplasmic m'
+p191
+I1
+sS'eobox transcript antisense'
+p192
+I2
+sS'al'
+p193
+I5
+sS'merin m'
+p194
+I6
+sS'ant'
+p195
+I1
+sS'onical m'
+p196
+I1
+sS'polymerase'
+p197
+I1
+sS'tissue'
+p198
+I1
+sS'ernative transcri'
+p199
+I1
+sS'L4 m'
+p200
+I1
+sS'miR'
+p201
+I1
+sS'get messenger'
+p202
+I1
+sS'okeratin 19 m'
+p203
+I1
+sS'2J2 m'
+p204
+I1
+sS'n 11 of prelamin A m'
+p205
+I1
+sS'og m'
+p206
+I1
+sS'ant mR'
+p207
+I1
+sS'EBP m'
+p208
+I2
+sS'N si'
+p209
+I1
+sS'y normal transcri'
+p210
+I1
+sS'sma m'
+p211
+I1
+sS'lamin A m'
+p212
+I1
+sS'1'
+p213
+I2
+sS'5A short hairpin'
+p214
+I1
+sS'o primary transcri'
+p215
+I1
+sS'lular transcri'
+p216
+I1
+sS'matase m'
+p217
+I1
+sS'RT m'
+p218
+I6
+sS'43 transcri'
+p219
+I1
+sS'll cytoplasmic'
+p220
+I1
+sS'A'
+p221
+I1
+sS'D transcrip'
+p222
+I1
+sS'T3 si'
+p223
+I1
+sS'bilizing m'
+p224
+I1
+sS'an MT m'
+p225
+I1
+sS'ranslated mR'
+p226
+I1
+sS'P channel m'
+p227
+I1
+sS'ER m'
+p228
+I1
+sS'lst m'
+p229
+I1
+sS'P3 m'
+p230
+I4
+sS'roRNA and m'
+p231
+I1
+sS'4F2 and CYPA22 mR'
+p232
+I1
+sS'C m'
+p233
+I2
+sS'gle m'
+p234
+I1
+sS'al miR'
+p235
+I1
+sS'll ncRNAs are miR'
+p236
+I1
+sS'A transcri'
+p237
+I2
+sS't1 m'
+p238
+I3
+sS'H rhodopsin transge'
+p239
+I1
+sS'a3 m'
+p240
+I1
+sS'A transcr'
+p241
+I1
+sS'x2 m'
+p242
+I4
+sS'S m'
+p243
+I4
+sS'll interfering'
+p244
+I2
+sS'6 m'
+p245
+I8
+sS'bilizing multiple mR'
+p246
+I2
+sS'ponectin m'
+p247
+I4
+sS'm'
+p248
+I95
+sS'ophagy gene mR'
+p249
+I1
+sS'ogenous'
+p250
+I5
+sS'a8 m'
+p251
+I1
+sS'si'
+p252
+I3
+sS'U m'
+p253
+I2
+sS'sn'
+p254
+I1
+sS'2 transcr'
+p255
+I2
+sS'A spec'
+p256
+I1
+sS'luenza A'
+p257
+I1
+sS'ified'
+p258
+I1
+sS'goengine small hairpin'
+p259
+I1
+sS'D1'
+p260
+I2
+s.
